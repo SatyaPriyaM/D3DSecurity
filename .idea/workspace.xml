@@ -13,11 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="Signin.feature" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Signin.feature" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/resources/Signin.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+            <state relative-caret-position="300">
+              <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -45,7 +45,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BasePage.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BasePage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/d3dCom/BasePage.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="64">
@@ -80,7 +80,6 @@
         <option value="$PROJECT_DIR$/src/test/java/ra.java" />
         <option value="$PROJECT_DIR$/src/test/java/ravi.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/resources/Signin.feature" />
         <option value="$PROJECT_DIR$/src/test/java/com/StepDefinitions/Signin_sd.java" />
         <option value="$PROJECT_DIR$/src/test/java/StepDefinitions.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/RunCukesTest.java" />
@@ -94,6 +93,7 @@
         <option value="$PROJECT_DIR$/src/test/java/d3dCom/StepDefinitions/Signin_sd.java" />
         <option value="$PROJECT_DIR$/src/test/java/d3dCom/Pages/SignIn_Page.java" />
         <option value="$PROJECT_DIR$/src/test/java/d3dCom/BasePage.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/Signin.feature" />
       </list>
     </option>
   </component>
@@ -113,7 +113,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="608" />
     <option name="y" value="21" />
     <option name="width" value="1400" />
@@ -159,6 +159,17 @@
             <path>
               <item name="D3DSecurity" type="b2602c69:ProjectViewProjectNode" />
               <item name="D3DSecurity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="D3DSecurity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="D3DSecurity" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="D3DSecurity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="D3DSecurity" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -417,7 +428,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
+    <frame x="-11" y="-11" width="1942" height="1042" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -629,14 +640,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/Signin.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/d3dCom/RunCukesTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -659,6 +662,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="64">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/Signin.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
           <folding />
         </state>
       </provider>
